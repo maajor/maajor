@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a character creation app on my spare time.
-- 🌱 I’m currently learning blender, machine learning, web stack.
-- 👯 I’m looking to collaborate on unity/houdini.
-- 🤔 I’m looking for help with server-side java.
-- 💬 Ask me about Unity, C#, Houdini.
-- 📫 How to reach me: info@ma-yidong.com
-
-
 <!--
 **maajor/maajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
