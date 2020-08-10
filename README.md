@@ -1,5 +1,6 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maajor&count_private=true&show_icons=true&theme=darcula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maajor&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maajor/maajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
