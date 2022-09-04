@@ -1,29 +1,49 @@
-### [Hi! I am maajor](https://ma-yidong.com)
+<h3 align="center">
+  <samp>Hi! I am 
+    <b><a target="_blank" href="https://ma-yidong.com">maajor</a></b>
+  </samp>
+</h3>
+<br>
 
-We are building some really cool stuff at Taichi Graphics @taichi-dev!   
+<p align="center">
+  <samp>
+    Building online editor && developing in-house art pipeline at Taichi Graphics @taichi-dev  
+    <br><br>
+    I know nothing about GameDev, Computer Graphics, Functional Programming, Typescript/React, C#/Unity and Python/Vex/Houdini
+    <br>
+    I am learning Rust, Blender and Tennis.
+    <br><br>
+  </samp>
+</p>
 
-Welcome to join us! We are hiring technical artist, rendering programmer, back-end engineer and front-end engineer.  
+<p align="center">
+  <samp>
+    <a href="https://ma-yidong.com">Blog</a> | <a href="https://www.artstation.com/maajor">ArtStation</a>
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=maajor&label=Profile+Views"></img>
+  </samp>
+</p>
 
-Most of my passions are about procedural, rendering, design, AI and any new stuff.  
+<p align="center">
+<details>
+  <summary>
+    <samp>Github Stats</samp>
+  </summary>
 
-![](https://komarev.com/ghpvc/?username=maajor&label=Profile+Views)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maajor&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maajor&layout=compact&hide=c%2B%2B,c,mathematica)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**maajor/maajor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table>
+    <tr>
+      <td>
+        <img src=https://github-readme-stats.vercel.app/api?username=maajor&count_private=true&show_icons=true&hide_border=true" alt="maajor's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maajor&hide_border=true&langs_count=4&layout=compact&count_private=true&hide=c%2B%2B,c,mathematica" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan=2 align="center">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=maajor&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D&count_private=true" alt="maajor's GitHub Readme Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</details>
+</p>
