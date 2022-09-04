@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    Building online editor && developing in-house art pipeline at Taichi Graphics @taichi-dev  
+    Building online editor && developing in-house art pipeline at Taichi Graphics <a href="https://github.com/taichi-dev">@taichi-dev</a>  
     <br><br>
     I know nothing about GameDev, Computer Graphics, Functional Programming, Typescript/React, C#/Unity and Python/Vex/Houdini
     <br>
