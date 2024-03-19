@@ -9,9 +9,9 @@
   <samp>
     I'm currently an indie developer working on projects in VR / AI / Gaming.
     <br><br>
-    I know nothing about GameDev, Computer Graphics, Functional Programming, Typescript/React, C#/Unity and Python/Vex/Houdini
+    I know nothing about GameDev, Computer Graphics, Functional Programming, Typescript/React, C#/Unity and Python/Vex/Houdini/Blender
     <br>
-    I am learning Rust, Blender and Tennis.
+    I am learning Swift and Tennis.
     <br><br>
   </samp>
 </p>
