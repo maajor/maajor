@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    Building online editor && developing in-house art pipeline at <a href="https://taitopia.design/">Taitopia Renderer</a>  
+    I'm currently an indie developer working on projects in VR / AI / Gaming.
     <br><br>
     I know nothing about GameDev, Computer Graphics, Functional Programming, Typescript/React, C#/Unity and Python/Vex/Houdini
     <br>
