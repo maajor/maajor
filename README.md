@@ -7,11 +7,11 @@
 
 <p align="center">
   <samp>
-    I'm currently an indie developer working on projects in VR / AI / Gaming.
+    I'm freelancer/indiedev working mostly with Unity. Contact me: info@ma-yidong.com
     <br><br>
-    I know nothing about GameDev, Computer Graphics, Functional Programming, Typescript/React, C#/Unity and Python/Vex/Houdini/Blender
+    I know nothing about GameDev, Rendering, Optimization, Physics Simulation/Animation, Tools/Editor, ML/RL, C#/Unity, Python/Blender, Vex/Houdini, C#/Rhino/Grasshopper, Typescript/React.
     <br>
-    I am learning Swift and Tennis.
+    I am learning C++ and Tennis.
     <br><br>
   </samp>
 </p>
