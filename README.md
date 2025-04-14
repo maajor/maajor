@@ -18,7 +18,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://ma-yidong.com">Blog</a> | <a href="https://www.artstation.com/maajor">ArtStation</a>
+    <a href="https://ma-yidong.com">Blog</a> | <a href="https://www.artstation.com/maajor">ArtStation</a> | <a href="https://x.com/major_0120">Twitter</a>
     <br><br>
     <img src="https://komarev.com/ghpvc/?username=maajor&label=Profile+Views"></img>
   </samp>
